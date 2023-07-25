@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/1656c3db-bd97-4135-afc3-26194a012ff5.svg)](https://wakatime.com/@1656c3db-bd97-4135-afc3-26194a012ff5)
 
+
+![codewars](https://www.codewars.com/users/w9i/badges/small)
 <!--
 **w9ip/w9ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=w9ip)](https://github.com/w9ip/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w9ip)](https://github.com/w9ip/github-readme-stats)
